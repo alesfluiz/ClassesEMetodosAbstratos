@@ -1,0 +1,15 @@
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\bin\Debug\net7.0\ExercicioClasseEMetodosAbstratos.exe
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\bin\Debug\net7.0\ExercicioClasseEMetodosAbstratos.deps.json
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\bin\Debug\net7.0\ExercicioClasseEMetodosAbstratos.runtimeconfig.json
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\bin\Debug\net7.0\ExercicioClasseEMetodosAbstratos.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\bin\Debug\net7.0\ExercicioClasseEMetodosAbstratos.pdb
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\obj\Debug\net7.0\ExercicioClasseEMetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\obj\Debug\net7.0\ExercicioClasseEMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\obj\Debug\net7.0\ExercicioClasseEMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\obj\Debug\net7.0\ExercicioClasseEMetodosAbstratos.AssemblyInfo.cs
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\obj\Debug\net7.0\ExercicioClasseEMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\obj\Debug\net7.0\ExercicioClasseEMetodosAbstratos.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\obj\Debug\net7.0\refint\ExercicioClasseEMetodosAbstratos.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\obj\Debug\net7.0\ExercicioClasseEMetodosAbstratos.pdb
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\obj\Debug\net7.0\ExercicioClasseEMetodosAbstratos.genruntimeconfig.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioClasseEMetodosAbstratos\ExercicioClasseEMetodosAbstratos\obj\Debug\net7.0\ref\ExercicioClasseEMetodosAbstratos.dll
